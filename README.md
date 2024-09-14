@@ -37,4 +37,4 @@ Screenshots
 
 ![Image Slider Screenshot 1](assets/Screenshot1.png)
 ![Image Slider Screenshot 2](assets/Screenshot2.png)
-![Image Slider Screenshot 2](assets/Screenshot2.png)
+![Image Slider Screenshot 2](assets/Screenshot3.png)
