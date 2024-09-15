@@ -1,4 +1,4 @@
-Image Slider
+Basic Image Slider
 =====================
 
 Image slider built using HTML, CSS, and JavaScript.
