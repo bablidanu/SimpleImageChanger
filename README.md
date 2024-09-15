@@ -21,16 +21,6 @@ Customization
 * To change the image sources, update the `images` array in `index.js`.
 * To style the slider, add custom CSS to the `index.css` file.
 
-Known Issues
-------------
-
-* Currently, the slider does not support touch events on mobile devices.
-
-Contributing
-------------
-
-If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
 
 Screenshots
 -----------
