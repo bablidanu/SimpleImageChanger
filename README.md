@@ -1,7 +1,7 @@
  Image Changer
 =====================
 
-Image slider built using HTML, CSS, and JavaScript.
+Image changer built using HTML, CSS, and JavaScript.
 
 Features
 --------
